@@ -1,0 +1,418 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Downloads\\nbt-2210900140\\nbt-2210900140\\nbt-2210900140\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{787EC22B-229F-4A28-A617-1FC94556D7D8}|nbt-2210900140.csproj|d:\\downloads\\nbt-2210900140\\nbt-2210900140\\nbt-2210900140\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{787EC22B-229F-4A28-A617-1FC94556D7D8}|nbt-2210900140.csproj|solutionrelative:views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{787EC22B-229F-4A28-A617-1FC94556D7D8}|nbt-2210900140.csproj|D:\\Downloads\\nbt-2210900140\\nbt-2210900140\\nbt-2210900140\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{787EC22B-229F-4A28-A617-1FC94556D7D8}|nbt-2210900140.csproj|solutionrelative:favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{787EC22B-229F-4A28-A617-1FC94556D7D8}|nbt-2210900140.csproj|D:\\Downloads\\nbt-2210900140\\nbt-2210900140\\nbt-2210900140\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{787EC22B-229F-4A28-A617-1FC94556D7D8}|nbt-2210900140.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{787EC22B-229F-4A28-A617-1FC94556D7D8}|nbt-2210900140.csproj|D:\\Downloads\\nbt-2210900140\\nbt-2210900140\\nbt-2210900140\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{787EC22B-229F-4A28-A617-1FC94556D7D8}|nbt-2210900140.csproj|solutionrelative:views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{787EC22B-229F-4A28-A617-1FC94556D7D8}|nbt-2210900140.csproj|D:\\Downloads\\nbt-2210900140\\nbt-2210900140\\nbt-2210900140\\views\\shared\\_nbtlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{787EC22B-229F-4A28-A617-1FC94556D7D8}|nbt-2210900140.csproj|solutionrelative:views\\shared\\_nbtlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{787EC22B-229F-4A28-A617-1FC94556D7D8}|nbt-2210900140.csproj|D:\\Downloads\\nbt-2210900140\\nbt-2210900140\\nbt-2210900140\\views\\saches\\nbtindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{787EC22B-229F-4A28-A617-1FC94556D7D8}|nbt-2210900140.csproj|solutionrelative:views\\saches\\nbtindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{787EC22B-229F-4A28-A617-1FC94556D7D8}|nbt-2210900140.csproj|D:\\Downloads\\nbt-2210900140\\nbt-2210900140\\nbt-2210900140\\views\\saches\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{787EC22B-229F-4A28-A617-1FC94556D7D8}|nbt-2210900140.csproj|solutionrelative:views\\saches\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{787EC22B-229F-4A28-A617-1FC94556D7D8}|nbt-2210900140.csproj|D:\\Downloads\\nbt-2210900140\\nbt-2210900140\\nbt-2210900140\\views\\saches\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{787EC22B-229F-4A28-A617-1FC94556D7D8}|nbt-2210900140.csproj|solutionrelative:views\\saches\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{787EC22B-229F-4A28-A617-1FC94556D7D8}|nbt-2210900140.csproj|D:\\Downloads\\nbt-2210900140\\nbt-2210900140\\nbt-2210900140\\views\\saches\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{787EC22B-229F-4A28-A617-1FC94556D7D8}|nbt-2210900140.csproj|solutionrelative:views\\saches\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{787EC22B-229F-4A28-A617-1FC94556D7D8}|nbt-2210900140.csproj|D:\\Downloads\\nbt-2210900140\\nbt-2210900140\\nbt-2210900140\\views\\saches\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{787EC22B-229F-4A28-A617-1FC94556D7D8}|nbt-2210900140.csproj|solutionrelative:views\\saches\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{787EC22B-229F-4A28-A617-1FC94556D7D8}|nbt-2210900140.csproj|D:\\Downloads\\nbt-2210900140\\nbt-2210900140\\nbt-2210900140\\views\\nhaxuatbans\\nbtindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{787EC22B-229F-4A28-A617-1FC94556D7D8}|nbt-2210900140.csproj|solutionrelative:views\\nhaxuatbans\\nbtindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{787EC22B-229F-4A28-A617-1FC94556D7D8}|nbt-2210900140.csproj|D:\\Downloads\\nbt-2210900140\\nbt-2210900140\\nbt-2210900140\\views\\nhaxuatbans\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{787EC22B-229F-4A28-A617-1FC94556D7D8}|nbt-2210900140.csproj|solutionrelative:views\\nhaxuatbans\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{787EC22B-229F-4A28-A617-1FC94556D7D8}|nbt-2210900140.csproj|D:\\Downloads\\nbt-2210900140\\nbt-2210900140\\nbt-2210900140\\views\\nhaxuatbans\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{787EC22B-229F-4A28-A617-1FC94556D7D8}|nbt-2210900140.csproj|solutionrelative:views\\nhaxuatbans\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{787EC22B-229F-4A28-A617-1FC94556D7D8}|nbt-2210900140.csproj|D:\\Downloads\\nbt-2210900140\\nbt-2210900140\\nbt-2210900140\\views\\nhaxuatbans\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{787EC22B-229F-4A28-A617-1FC94556D7D8}|nbt-2210900140.csproj|solutionrelative:views\\nhaxuatbans\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{787EC22B-229F-4A28-A617-1FC94556D7D8}|nbt-2210900140.csproj|D:\\Downloads\\nbt-2210900140\\nbt-2210900140\\nbt-2210900140\\views\\nhaxuatbans\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{787EC22B-229F-4A28-A617-1FC94556D7D8}|nbt-2210900140.csproj|solutionrelative:views\\nhaxuatbans\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{787EC22B-229F-4A28-A617-1FC94556D7D8}|nbt-2210900140.csproj|D:\\Downloads\\nbt-2210900140\\nbt-2210900140\\nbt-2210900140\\views\\nbthome\\nbtindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{787EC22B-229F-4A28-A617-1FC94556D7D8}|nbt-2210900140.csproj|solutionrelative:views\\nbthome\\nbtindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{787EC22B-229F-4A28-A617-1FC94556D7D8}|nbt-2210900140.csproj|D:\\Downloads\\nbt-2210900140\\nbt-2210900140\\nbt-2210900140\\views\\nbthome\\nbtcontact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{787EC22B-229F-4A28-A617-1FC94556D7D8}|nbt-2210900140.csproj|solutionrelative:views\\nbthome\\nbtcontact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{787EC22B-229F-4A28-A617-1FC94556D7D8}|nbt-2210900140.csproj|D:\\Downloads\\nbt-2210900140\\nbt-2210900140\\nbt-2210900140\\views\\nbthome\\nbtabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{787EC22B-229F-4A28-A617-1FC94556D7D8}|nbt-2210900140.csproj|solutionrelative:views\\nbthome\\nbtabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{787EC22B-229F-4A28-A617-1FC94556D7D8}|nbt-2210900140.csproj|D:\\Downloads\\nbt-2210900140\\nbt-2210900140\\nbt-2210900140\\models\\nbtmodel2210900140.edmx.diagram||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{787EC22B-229F-4A28-A617-1FC94556D7D8}|nbt-2210900140.csproj|solutionrelative:models\\nbtmodel2210900140.edmx.diagram||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{787EC22B-229F-4A28-A617-1FC94556D7D8}|nbt-2210900140.csproj|D:\\Downloads\\nbt-2210900140\\nbt-2210900140\\nbt-2210900140\\models\\nbtmodel2210900140.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{787EC22B-229F-4A28-A617-1FC94556D7D8}|nbt-2210900140.csproj|solutionrelative:models\\nbtmodel2210900140.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{787EC22B-229F-4A28-A617-1FC94556D7D8}|nbt-2210900140.csproj|D:\\Downloads\\nbt-2210900140\\nbt-2210900140\\nbt-2210900140\\controllers\\sachescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{787EC22B-229F-4A28-A617-1FC94556D7D8}|nbt-2210900140.csproj|solutionrelative:controllers\\sachescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{787EC22B-229F-4A28-A617-1FC94556D7D8}|nbt-2210900140.csproj|D:\\Downloads\\nbt-2210900140\\nbt-2210900140\\nbt-2210900140\\controllers\\nbthomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{787EC22B-229F-4A28-A617-1FC94556D7D8}|nbt-2210900140.csproj|solutionrelative:controllers\\nbthomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{787EC22B-229F-4A28-A617-1FC94556D7D8}|nbt-2210900140.csproj|D:\\Downloads\\nbt-2210900140\\nbt-2210900140\\nbt-2210900140\\controllers\\nhaxuatbanscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{787EC22B-229F-4A28-A617-1FC94556D7D8}|nbt-2210900140.csproj|solutionrelative:controllers\\nhaxuatbanscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\pvv-2210900085\\nbt-2210900140\\nbt-2210900140\\Models\\PvvModel2210900085.tt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\pvv-2210900085\\nbt-2210900140\\nbt-2210900140\\Models\\PvvModel2210900085.Context.tt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "favicon.ico - Icon [16x16, 32 bit, BMP]",
+              "DocumentMoniker": "D:\\Downloads\\nbt-2210900140\\nbt-2210900140\\nbt-2210900140\\favicon.ico",
+              "RelativeDocumentMoniker": "favicon.ico",
+              "ToolTip": "D:\\Downloads\\pvv-2210900085\\nbt-2210900140\\nbt-2210900140\\favicon.ico - Icon [16x16, 32 bit, BMP]",
+              "RelativeToolTip": "..\\..\\..\\pvv-2210900085\\nbt-2210900140\\nbt-2210900140\\favicon.ico - Icon [16x16, 32 bit, BMP]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001525|",
+              "WhenOpened": "2024-07-11T15:31:12.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\Downloads\\nbt-2210900140\\nbt-2210900140\\nbt-2210900140\\Views\\Web.config",
+              "RelativeDocumentMoniker": "Views\\Web.config",
+              "ToolTip": "D:\\Downloads\\nbt-2210900140\\nbt-2210900140\\nbt-2210900140\\Views\\Web.config",
+              "RelativeToolTip": "Views\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-07-11T15:31:00.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\Downloads\\nbt-2210900140\\nbt-2210900140\\nbt-2210900140\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\Downloads\\nbt-2210900140\\nbt-2210900140\\nbt-2210900140\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-11T15:30:50.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\Downloads\\nbt-2210900140\\nbt-2210900140\\nbt-2210900140\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
+              "ToolTip": "D:\\Downloads\\nbt-2210900140\\nbt-2210900140\\nbt-2210900140\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-11T15:30:44.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_NbtLayout.cshtml",
+              "DocumentMoniker": "D:\\Downloads\\nbt-2210900140\\nbt-2210900140\\nbt-2210900140\\Views\\Shared\\_NbtLayout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_NbtLayout.cshtml",
+              "ToolTip": "D:\\Downloads\\nbt-2210900140\\nbt-2210900140\\nbt-2210900140\\Views\\Shared\\_NbtLayout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_NbtLayout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-11T15:30:00.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NbtIndex.cshtml",
+              "DocumentMoniker": "D:\\Downloads\\nbt-2210900140\\nbt-2210900140\\nbt-2210900140\\Views\\saches\\NbtIndex.cshtml",
+              "RelativeDocumentMoniker": "Views\\saches\\NbtIndex.cshtml",
+              "ToolTip": "D:\\Downloads\\nbt-2210900140\\nbt-2210900140\\nbt-2210900140\\Views\\saches\\NbtIndex.cshtml",
+              "RelativeToolTip": "Views\\saches\\NbtIndex.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-11T15:29:27.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Downloads\\nbt-2210900140\\nbt-2210900140\\nbt-2210900140\\Views\\saches\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\saches\\Edit.cshtml",
+              "ToolTip": "D:\\Downloads\\nbt-2210900140\\nbt-2210900140\\nbt-2210900140\\Views\\saches\\Edit.cshtml",
+              "RelativeToolTip": "Views\\saches\\Edit.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAAQAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-11T15:28:56.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\Downloads\\nbt-2210900140\\nbt-2210900140\\nbt-2210900140\\Views\\saches\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\saches\\Details.cshtml",
+              "ToolTip": "D:\\Downloads\\nbt-2210900140\\nbt-2210900140\\nbt-2210900140\\Views\\saches\\Details.cshtml",
+              "RelativeToolTip": "Views\\saches\\Details.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-11T15:28:39.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Downloads\\nbt-2210900140\\nbt-2210900140\\nbt-2210900140\\Views\\saches\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\saches\\Delete.cshtml",
+              "ToolTip": "D:\\Downloads\\nbt-2210900140\\nbt-2210900140\\nbt-2210900140\\Views\\saches\\Delete.cshtml",
+              "RelativeToolTip": "Views\\saches\\Delete.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAABAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-11T15:28:16.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Downloads\\nbt-2210900140\\nbt-2210900140\\nbt-2210900140\\Views\\saches\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\saches\\Create.cshtml",
+              "ToolTip": "D:\\Downloads\\nbt-2210900140\\nbt-2210900140\\nbt-2210900140\\Views\\saches\\Create.cshtml",
+              "RelativeToolTip": "Views\\saches\\Create.cshtml",
+              "ViewState": "AQIAADQAAAAAAAAAAAASwEsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-11T15:28:03.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "NbtIndex.cshtml",
+              "DocumentMoniker": "D:\\Downloads\\nbt-2210900140\\nbt-2210900140\\nbt-2210900140\\Views\\nhaxuatbans\\NbtIndex.cshtml",
+              "RelativeDocumentMoniker": "Views\\nhaxuatbans\\NbtIndex.cshtml",
+              "ToolTip": "D:\\Downloads\\nbt-2210900140\\nbt-2210900140\\nbt-2210900140\\Views\\nhaxuatbans\\NbtIndex.cshtml",
+              "RelativeToolTip": "Views\\nhaxuatbans\\NbtIndex.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-11T15:27:25.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Downloads\\nbt-2210900140\\nbt-2210900140\\nbt-2210900140\\Views\\nhaxuatbans\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\nhaxuatbans\\Edit.cshtml",
+              "ToolTip": "D:\\Downloads\\nbt-2210900140\\nbt-2210900140\\nbt-2210900140\\Views\\nhaxuatbans\\Edit.cshtml",
+              "RelativeToolTip": "Views\\nhaxuatbans\\Edit.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABQAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-11T15:26:52.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\Downloads\\nbt-2210900140\\nbt-2210900140\\nbt-2210900140\\Views\\nhaxuatbans\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\nhaxuatbans\\Details.cshtml",
+              "ToolTip": "D:\\Downloads\\nbt-2210900140\\nbt-2210900140\\nbt-2210900140\\Views\\nhaxuatbans\\Details.cshtml",
+              "RelativeToolTip": "Views\\nhaxuatbans\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-11T15:26:43.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Downloads\\nbt-2210900140\\nbt-2210900140\\nbt-2210900140\\Views\\nhaxuatbans\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\nhaxuatbans\\Delete.cshtml",
+              "ToolTip": "D:\\Downloads\\nbt-2210900140\\nbt-2210900140\\nbt-2210900140\\Views\\nhaxuatbans\\Delete.cshtml",
+              "RelativeToolTip": "Views\\nhaxuatbans\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-11T15:26:21.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Downloads\\nbt-2210900140\\nbt-2210900140\\nbt-2210900140\\Views\\nhaxuatbans\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\nhaxuatbans\\Create.cshtml",
+              "ToolTip": "D:\\Downloads\\nbt-2210900140\\nbt-2210900140\\nbt-2210900140\\Views\\nhaxuatbans\\Create.cshtml",
+              "RelativeToolTip": "Views\\nhaxuatbans\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-11T15:25:45.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "NbtIndex.cshtml",
+              "DocumentMoniker": "D:\\Downloads\\nbt-2210900140\\nbt-2210900140\\nbt-2210900140\\Views\\nbtHome\\NbtIndex.cshtml",
+              "RelativeDocumentMoniker": "Views\\nbtHome\\NbtIndex.cshtml",
+              "ToolTip": "D:\\Downloads\\nbt-2210900140\\nbt-2210900140\\nbt-2210900140\\Views\\nbtHome\\NbtIndex.cshtml",
+              "RelativeToolTip": "Views\\nbtHome\\NbtIndex.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-11T15:25:04.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "NbtContact.cshtml",
+              "DocumentMoniker": "D:\\Downloads\\nbt-2210900140\\nbt-2210900140\\nbt-2210900140\\Views\\nbtHome\\NbtContact.cshtml",
+              "RelativeDocumentMoniker": "Views\\nbtHome\\NbtContact.cshtml",
+              "ToolTip": "D:\\Downloads\\nbt-2210900140\\nbt-2210900140\\nbt-2210900140\\Views\\nbtHome\\NbtContact.cshtml",
+              "RelativeToolTip": "Views\\nbtHome\\NbtContact.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-11T15:24:05.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "NbtAbout.cshtml",
+              "DocumentMoniker": "D:\\Downloads\\nbt-2210900140\\nbt-2210900140\\nbt-2210900140\\Views\\nbtHome\\NbtAbout.cshtml",
+              "RelativeDocumentMoniker": "Views\\nbtHome\\NbtAbout.cshtml",
+              "ToolTip": "D:\\Downloads\\nbt-2210900140\\nbt-2210900140\\nbt-2210900140\\Views\\nbtHome\\NbtAbout.cshtml",
+              "RelativeToolTip": "Views\\nbtHome\\NbtAbout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-11T15:23:39.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "PvvModel2210900085.tt",
+              "DocumentMoniker": "D:\\Downloads\\pvv-2210900085\\nbt-2210900140\\nbt-2210900140\\Models\\PvvModel2210900085.tt",
+              "RelativeDocumentMoniker": "..\\..\\..\\pvv-2210900085\\nbt-2210900140\\nbt-2210900140\\Models\\PvvModel2210900085.tt",
+              "ToolTip": "D:\\Downloads\\pvv-2210900085\\nbt-2210900140\\nbt-2210900140\\Models\\PvvModel2210900085.tt",
+              "RelativeToolTip": "..\\..\\..\\pvv-2210900085\\nbt-2210900140\\nbt-2210900140\\Models\\PvvModel2210900085.tt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-07-11T15:23:00.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "PvvModel2210900085.Context.tt",
+              "DocumentMoniker": "D:\\Downloads\\pvv-2210900085\\nbt-2210900140\\nbt-2210900140\\Models\\PvvModel2210900085.Context.tt",
+              "RelativeDocumentMoniker": "..\\..\\..\\pvv-2210900085\\nbt-2210900140\\nbt-2210900140\\Models\\PvvModel2210900085.Context.tt",
+              "ToolTip": "D:\\Downloads\\pvv-2210900085\\nbt-2210900140\\nbt-2210900140\\Models\\PvvModel2210900085.Context.tt",
+              "RelativeToolTip": "..\\..\\..\\pvv-2210900085\\nbt-2210900140\\nbt-2210900140\\Models\\PvvModel2210900085.Context.tt",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-07-11T15:22:27.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "NbtModel2210900140.edmx.diagram",
+              "DocumentMoniker": "D:\\Downloads\\nbt-2210900140\\nbt-2210900140\\nbt-2210900140\\Models\\NbtModel2210900140.edmx.diagram",
+              "RelativeDocumentMoniker": "Models\\NbtModel2210900140.edmx.diagram",
+              "ToolTip": "D:\\Downloads\\nbt-2210900140\\nbt-2210900140\\nbt-2210900140\\Models\\NbtModel2210900140.edmx.diagram",
+              "RelativeToolTip": "Models\\NbtModel2210900140.edmx.diagram",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-11T15:21:45.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "NbtModel2210900140.Designer.cs",
+              "DocumentMoniker": "D:\\Downloads\\nbt-2210900140\\nbt-2210900140\\nbt-2210900140\\Models\\NbtModel2210900140.Designer.cs",
+              "RelativeDocumentMoniker": "Models\\NbtModel2210900140.Designer.cs",
+              "ToolTip": "D:\\Downloads\\nbt-2210900140\\nbt-2210900140\\nbt-2210900140\\Models\\NbtModel2210900140.Designer.cs",
+              "RelativeToolTip": "Models\\NbtModel2210900140.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T15:21:40.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "sachesController.cs",
+              "DocumentMoniker": "D:\\Downloads\\nbt-2210900140\\nbt-2210900140\\nbt-2210900140\\Controllers\\sachesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\sachesController.cs",
+              "ToolTip": "D:\\Downloads\\nbt-2210900140\\nbt-2210900140\\nbt-2210900140\\Controllers\\sachesController.cs",
+              "RelativeToolTip": "Controllers\\sachesController.cs",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAmwHcAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T15:19:42.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "NbtHomeController.cs",
+              "DocumentMoniker": "D:\\Downloads\\nbt-2210900140\\nbt-2210900140\\nbt-2210900140\\Controllers\\NbtHomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\NbtHomeController.cs",
+              "ToolTip": "D:\\Downloads\\nbt-2210900140\\nbt-2210900140\\nbt-2210900140\\Controllers\\NbtHomeController.cs",
+              "RelativeToolTip": "Controllers\\NbtHomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T15:18:20.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "nhaxuatbansController.cs",
+              "DocumentMoniker": "D:\\Downloads\\nbt-2210900140\\nbt-2210900140\\nbt-2210900140\\Controllers\\nhaxuatbansController.cs",
+              "RelativeDocumentMoniker": "Controllers\\nhaxuatbansController.cs",
+              "ToolTip": "D:\\Downloads\\nbt-2210900140\\nbt-2210900140\\nbt-2210900140\\Controllers\\nhaxuatbansController.cs",
+              "RelativeToolTip": "Controllers\\nhaxuatbansController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T15:17:01.093Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
